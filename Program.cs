@@ -10,6 +10,7 @@ namespace МТЗКІТ_Лабораторна_робота
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
         }
     }
 }
